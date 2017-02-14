@@ -1,4 +1,5 @@
-<img src="images/gigabit_fox.svg" width="150" alt="Mozilla Gigabit Logo"/><br/>
+<img src="images/gigabit_fox.svg" width="150" alt="Mozilla Gigabit Logo"/>
+
 <img src="images/Austin-monitor-logo.png" width="150" alt="Austin Monitor Logo"/>
 <img src="images/nucleus.jpeg" width="150" alt="Nucleus Learning Network Logo"/>
 <img src="images/OpenAustin.png" width="150" alt="Open Austin Logo"/>
