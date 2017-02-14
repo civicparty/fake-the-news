@@ -11,7 +11,11 @@
 - Civic Party Software
 - Open Austin
 
-Project Purpose: To promote an awareness of internet health by fostering learners’ web literacy, this grant is supporting the development of three interactive web literacy lessons and web apps to facilitate learning.
+**Project Purpose:** To promote an awareness of internet health by fostering learners’ web literacy, this grant is supporting the development of three interactive web literacy lessons and web apps to facilitate learning.
+
+**What are we working on?**
+- Feb 14, 2017: Mateo (Civic Party Software) set up Github + Landing Page for project.
+- Feb 9, 2017: Fake the News team met for brainstorming on the three lesson. Sarah (Nucleus Learning Network) is tasked with creating a Curriculum Outline Draft and Mateo (Civic Party Software) is tasked with creating a Design Brief for the Legit-o-Meter web app.
 
 _These are all working titles_
 
