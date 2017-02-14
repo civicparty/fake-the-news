@@ -3,7 +3,12 @@
 <img src="http://static1.squarespace.com/static/54a1ab67e4b092556fa8c9e1/t/54d11199e4b0ca867cc3b4a5/1486787221611/?format=1500w"/ width="150" alt="Nucleus Learning Network Logo"/>
 <img src="https://www.open-austin.org/assets/images/logo_OpenAustin_Color-300x252.png" width="150" alt="Open Austin Logo"/>
 
-### With support from Civic Party Software
+### Partnering Organizations:
+- Mozilla Gigabit Community Fund
+- Austin Monitor (Capital of Texas Media Foundation)
+- Nucleus Learning Network
+- Civic Party Software
+- Open Austin
 
 Project Purpose: To promote an awareness of internet health by fostering learners’ web literacy, this grant is supporting the development of three interactive web literacy lessons and web apps to facilitate learning.
 
