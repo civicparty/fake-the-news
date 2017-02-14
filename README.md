@@ -1,10 +1,11 @@
 # Fake the News
+
 ## A web literacy project funded by Mozilla Foundation Gigabit Communities Grant
 
-<img src="https://learning.mozilla.org/img/pages/gigabit/gigabit_fox.svg" width="200" alt="Mozilla Gigabit Logo"/>
-<img src="http://kitchenforaustin.com/wp-content/uploads/2014/07/Austin-monitor-logo.png" width="200" alt="Austin Monitor Logo"/>
-<img src="http://static1.squarespace.com/static/54a1ab67e4b092556fa8c9e1/t/54d11199e4b0ca867cc3b4a5/1486787221611/?format=1500w"/ width="200" alt="Nucleus Learning Network Logo">
-<img src="https://www.open-austin.org/assets/images/logo_OpenAustin_Color-300x252.png" width="200" alt="Open Austin Logo"/>
+<img src="https://learning.mozilla.org/img/pages/gigabit/gigabit_fox.svg" width="150" alt="Mozilla Gigabit Logo"/>
+<img src="http://kitchenforaustin.com/wp-content/uploads/2014/07/Austin-monitor-logo.png" width="150" alt="Austin Monitor Logo"/>
+<img src="http://static1.squarespace.com/static/54a1ab67e4b092556fa8c9e1/t/54d11199e4b0ca867cc3b4a5/1486787221611/?format=1500w"/ width="150" alt="Nucleus Learning Network Logo"/>
+<img src="https://www.open-austin.org/assets/images/logo_OpenAustin_Color-300x252.png" width="150" alt="Open Austin Logo"/>
 
 ### With support from Civic Party Software
 
