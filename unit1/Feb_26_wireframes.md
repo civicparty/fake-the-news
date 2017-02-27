@@ -2,7 +2,7 @@ During Misinfo Conference we used Mockingbird to create wireframes of the Lesson
 
 Here is a link to the [mockingbird project](https://gomockingbird.com/projects/1ai9dty/4gXVnC).
 
-Here is a link to the [PDF export](/feb_26_mockingbird.pdf)
+Here is a link to the [PDF export](/unit1/feb_26_mockingbird.pdf)
 
 - [ ] Sign up/Login
       - Oauth vs email
