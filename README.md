@@ -35,6 +35,9 @@ _These are all working titles_
 
 The goal of Lesson 1 is to give students the tools to examine a web article's credibility. The Fake the News team will develop a web app version of the [Kraken the Code Web Literacy Exercise](https://mozilla.github.io/webmaker-curriculum/WebLiteracyBasics-I/session01-kraken.html).
 
+- More info on the Web App development progress on [Github](https://github.com/civicparty/legitometer).
+- [Legit-o-Meter Lesson Plan](https://docs.google.com/document/d/1fiA4r5OKVco8b9Gjk7QW4ZlxalsWK4_IpfWV1PITzK4/edit?usp=sharing)
+
 ### Lesson #2: Rewriting History
 
 The goal of Lesson 2 is to help students understand the origins and consequences of fake news using historical examples. By the end of the lesson, they will understand what motivates this ecosystem and how money, propoganda, misinformation, and political bias influence the content we see online.
